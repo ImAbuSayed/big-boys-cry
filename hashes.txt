@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Big Boys Cry
+
+This log tracks the cryptographic history and versioning for the song **Big Boys Cry** (big-boys-cry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T03:32:53.978723 | `v1` | `1de196866419785712d8cf1ea6888ef671e47a8ffcdb529d89a319ac04ac1fef` | `080d8fddb38b30adfd2e46b97fa118783e08f2460ea581959d7fadc77af324dc` | `2026-05-21_big-boys-cry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/big-boys-cry/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Big Boys Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/big-boys-cry/) |
+| **Get License** | [Commercial Licensing for Big Boys Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/big-boys-cry/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1de196866419785712d8cf1ea6888ef671e47a8ffcdb529d89a319ac04ac1fef` |
 | **Timestamp** | May 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
