@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/big-boys-cry/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Big Boys Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/big-boys-cry/) |
+| **Get License** | [Official Music Licensing for Big Boys Cry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/big-boys-cry/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit f161008a6fabc2ba1cdc97aabb85082a4594c328
+> Kaali raat da hanera, heart karda beat
+> Teri akhiyan ch main dubbda, tu lagdi sweet
+> Munda main shonki haan bada, loose karda control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
